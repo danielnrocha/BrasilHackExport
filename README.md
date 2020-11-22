@@ -1,12 +1,11 @@
 # BrasilHackExport
-Projeto de Data Science desenvolvido para o Brasil Hack Export (2020).
+## Projeto de Data Science desenvolvido para o Brasil Hack Export (2020).
+### Equipe Union Squad – Daniel Rocha, Letícia Fiorito e Wallys Souza
+Desafio: "Mapear a eficiência dos portos do Brasil no escoamento de safra e apresentar soluções usando inteligência artificial".
 
-Equipe Union Squad – Daniel Rocha, Letícia Fiorito e Wallys Souza
- Desafio: "Mapear a eficiência dos portos do Brasil no escoamento de safra e apresentar soluções usando inteligência artificial".
-
-Video Pitch: 
-Video App Mockup: 
-Apresentação de Slides: 
+Video Pitch: https://youtu.be/ktjaAgHKmNc
+Video App Mockup: https://youtu.be/Y8aA5Hsv3Lc
+Apresentação de Slides: https://drive.google.com/file/d/1Nz6eMfvrClhri3_MrY7Rwy5stB6cw3W8/view?usp=sharing
 
 **Descrição**
 Criamos modelos preditivos que preveem (1) os erros de estimativa de horário de atracação e também (2) o tempo de espera dos navios em determinando portos. Além da previsão, as técnicas de estatística e econometria aplicadas ajudam a mensurar com mais clareza o impacto de cada variável nessas duas métricas de desempenho. 
