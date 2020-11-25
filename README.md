@@ -7,7 +7,7 @@ Desafio: "Mapear a eficiência dos portos do Brasil no escoamento de safra e apr
 - Video App Mockup: https://youtu.be/Y8aA5Hsv3Lc
 - Apresentação de Slides: https://bit.ly/39g41fa
 
-<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/PortoLogo.png" width="700">
+<img src="https://github.com/danielnrocha/BrasilHackExport/blob/main/PortoLogo.png" width="700">
 
 **Descrição**
 <p align="justify">
