@@ -7,6 +7,8 @@ Desafio: "Mapear a eficiência dos portos do Brasil no escoamento de safra e apr
 - Video App Mockup: https://youtu.be/Y8aA5Hsv3Lc
 - Apresentação de Slides: https://bit.ly/39g41fa
 
+<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/PortoLogo.png" width="700">
+
 **Descrição**
 <p align="justify">
 Criamos modelos preditivos que estivam (1) os erros de estimativa de horário de atracação e também (2) o tempo de espera dos navios em determinando portos. Além da previsão, as técnicas de estatística e econometria aplicadas ajudam a mensurar com mais clareza o impacto de cada variável nessas duas métricas de desempenho. 
