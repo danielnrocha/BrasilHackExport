@@ -5,10 +5,10 @@ Desafio: "Mapear a eficiência dos portos do Brasil no escoamento de safra e apr
 
 - Video Pitch: https://youtu.be/ktjaAgHKmNc
 - Video App Mockup: https://youtu.be/Y8aA5Hsv3Lc
-- Apresentação de Slides: https://drive.google.com/file/d/1Nz6eMfvrClhri3_MrY7Rwy5stB6cw3W8/view?usp=sharing
+- Apresentação de Slides: https://bit.ly/39g41fa
 
 **Descrição**
-Criamos modelos preditivos que preveem (1) os erros de estimativa de horário de atracação e também (2) o tempo de espera dos navios em determinando portos. Além da previsão, as técnicas de estatística e econometria aplicadas ajudam a mensurar com mais clareza o impacto de cada variável nessas duas métricas de desempenho. 
+- Criamos modelos preditivos que estivam (1) os erros de estimativa de horário de atracação e também (2) o tempo de espera dos navios em determinando portos. Além da previsão, as técnicas de estatística e econometria aplicadas ajudam a mensurar com mais clareza o impacto de cada variável nessas duas métricas de desempenho. 
 
 **Solução**
 1. A autoridade portuária, praticagem e terminais podem utilizar a solução dos nossos modelos de inteligência para otimizar a formação do line-up, buscando equilibrar o atendimentos de navios e cargas mais céleres com aqueles que demandam maior tempo de fundeio.
